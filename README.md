@@ -2,7 +2,6 @@
 
 A smart home energy management system that monitors and balances power consumption across connected appliances.
 
-![SmartLoadBalancer Dashboard](./assets/dashboard.png)
 
 ## 🚀 Overview
 
